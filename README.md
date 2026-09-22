@@ -2,7 +2,7 @@
 
 <img src="banner.png" alt="Zaid Salman — Idea. Design. Implement. Deploy. Rebuild." width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&pause=1100&color=E8B15A&center=true&vCenter=true&width=820&lines=Idea.+Design.+Implement.+Deploy.+Rebuild.;Two+agents+%C2%B7+one+loop;Agentic+RAG+%C2%B7+ACRFP;Eval.+Feedback.+Rebuild." alt="Idea. Design. Implement. Deploy. Rebuild." />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&pause=1100&color=E8B15A&center=true&vCenter=true&width=720&lines=Agentic+RAG+%C2%B7+ACRFP+%C2%B7+DevOps;Bengaluru+%C2%B7+Open+to+India%2C+UAE%2C+KSA%2C+Europe;LangGraph+%C2%B7+FastAPI+%C2%B7+Kubernetes" alt="Agentic RAG, ACRFP, and DevOps" />
 
 <br>
 
@@ -15,10 +15,6 @@
 <a href="mailto:zaid.cloudsre@gmail.com">
   <img src="https://img.shields.io/badge/Email-zaid.cloudsre@gmail.com-0c0a09?style=for-the-badge&logo=gmail&logoColor=E8B15A&labelColor=0c0a09" alt="Email" />
 </a>
-
-<br>
-
-![Profile views](https://komarev.com/ghpvc/?username=Salman167&color=E8B15A&style=flat-square&label=profile+views)
 
 </div>
 
@@ -48,16 +44,6 @@ Status    : Building production GenAI platforms
 ```
 
 </details>
-
----
-
-# Vision
-
-Agentic systems that run in production and stay inside policy, approval, and observability. Retrieval and cloud actions should be useful because they are bounded, not because they are unsupervised.
-
-# Mission
-
-Take each idea through design, implementation, deploy, and rebuild. I use that loop to ship Agentic RAG and ACRFP on Azure and AWS, with LangGraph agents, FastAPI, and a guardrail before anything changes production.
 
 ---
 
@@ -129,42 +115,50 @@ The same platforms are shipped with containers, GitOps, and infrastructure as co
 
 ---
 
+# Vision and mission
+
+**Vision.** Agentic systems that run in production and stay inside policy, approval, and observability.
+
+**Mission.** Take each idea through design, implementation, deploy, and rebuild, then ship Agentic RAG and ACRFP on Azure and AWS.
+
+---
+
 # Tech stack
 
 ### Agentic RAG & LLM engineering
 
-![Python](https://img.shields.io/badge/Python-0c0a09?style=flat-square&logo=python&logoColor=E8B15A)
-![FastAPI](https://img.shields.io/badge/FastAPI-0c0a09?style=flat-square&logo=fastapi&logoColor=E8B15A)
-![LangChain](https://img.shields.io/badge/LangChain-0c0a09?style=flat-square&logo=langchain&logoColor=E8B15A)
+![Python](https://img.shields.io/badge/Python-0c0a09?style=flat-square&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-0c0a09?style=flat-square&logo=fastapi&logoColor=009688)
+![LangChain](https://img.shields.io/badge/LangChain-0c0a09?style=flat-square&logo=langchain&logoColor=E7E5E4)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0c0a09?style=flat-square&logoColor=E8B15A)
 ![RAG](https://img.shields.io/badge/Agentic_RAG-0c0a09?style=flat-square&logoColor=E8B15A)
-![Qdrant](https://img.shields.io/badge/Qdrant-0c0a09?style=flat-square&logoColor=E8B15A)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0c0a09?style=flat-square&logo=microsoft-azure&logoColor=E8B15A)
-![RAGAS](https://img.shields.io/badge/RAGAS-0c0a09?style=flat-square&logoColor=E8B15A)
-![Langfuse](https://img.shields.io/badge/Langfuse-0c0a09?style=flat-square&logoColor=E8B15A)
+![Qdrant](https://img.shields.io/badge/Qdrant-0c0a09?style=flat-square&logoColor=DC244C)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0c0a09?style=flat-square&logo=microsoft-azure&logoColor=0078D4)
+![RAGAS](https://img.shields.io/badge/RAGAS-0c0a09?style=flat-square&logoColor=A78BFA)
+![Langfuse](https://img.shields.io/badge/Langfuse-0c0a09?style=flat-square&logoColor=FB7185)
 
 ### Data & services
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0c0a09?style=flat-square&logo=postgresql&logoColor=E8B15A)
-![Redis](https://img.shields.io/badge/Redis-0c0a09?style=flat-square&logo=redis&logoColor=E8B15A)
-![MinIO](https://img.shields.io/badge/MinIO-0c0a09?style=flat-square&logoColor=E8B15A)
-![Pydantic](https://img.shields.io/badge/Pydantic-0c0a09?style=flat-square&logo=pydantic&logoColor=E8B15A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0c0a09?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-0c0a09?style=flat-square&logo=redis&logoColor=FF4438)
+![MinIO](https://img.shields.io/badge/MinIO-0c0a09?style=flat-square&logoColor=C72E49)
+![Pydantic](https://img.shields.io/badge/Pydantic-0c0a09?style=flat-square&logo=pydantic&logoColor=E92063)
 
 ### DevOps & cloud
 
-![Azure](https://img.shields.io/badge/Azure-0c0a09?style=flat-square&logo=microsoft-azure&logoColor=E8B15A)
-![AWS](https://img.shields.io/badge/AWS-0c0a09?style=flat-square&logo=amazon-aws&logoColor=E8B15A)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0c0a09?style=flat-square&logo=kubernetes&logoColor=E8B15A)
-![Docker](https://img.shields.io/badge/Docker-0c0a09?style=flat-square&logo=docker&logoColor=E8B15A)
-![Helm](https://img.shields.io/badge/Helm-0c0a09?style=flat-square&logo=helm&logoColor=E8B15A)
-![Terraform](https://img.shields.io/badge/Terraform-0c0a09?style=flat-square&logo=terraform&logoColor=E8B15A)
-![Ansible](https://img.shields.io/badge/Ansible-0c0a09?style=flat-square&logo=ansible&logoColor=E8B15A)
-![Argo CD](https://img.shields.io/badge/Argo_CD-0c0a09?style=flat-square&logo=argo&logoColor=E8B15A)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0c0a09?style=flat-square&logo=github-actions&logoColor=E8B15A)
-![Jenkins](https://img.shields.io/badge/Jenkins-0c0a09?style=flat-square&logo=jenkins&logoColor=E8B15A)
-![Prometheus](https://img.shields.io/badge/Prometheus-0c0a09?style=flat-square&logo=prometheus&logoColor=E8B15A)
-![Grafana](https://img.shields.io/badge/Grafana-0c0a09?style=flat-square&logo=grafana&logoColor=E8B15A)
-![Linux](https://img.shields.io/badge/Linux-0c0a09?style=flat-square&logo=linux&logoColor=E8B15A)
+![Azure](https://img.shields.io/badge/Azure-0c0a09?style=flat-square&logo=microsoft-azure&logoColor=0078D4)
+![AWS](https://img.shields.io/badge/AWS-0c0a09?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0c0a09?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Docker](https://img.shields.io/badge/Docker-0c0a09?style=flat-square&logo=docker&logoColor=2496ED)
+![Helm](https://img.shields.io/badge/Helm-0c0a09?style=flat-square&logo=helm&logoColor=A5B4FC)
+![Terraform](https://img.shields.io/badge/Terraform-0c0a09?style=flat-square&logo=terraform&logoColor=844FBA)
+![Ansible](https://img.shields.io/badge/Ansible-0c0a09?style=flat-square&logo=ansible&logoColor=EE0000)
+![Argo CD](https://img.shields.io/badge/Argo_CD-0c0a09?style=flat-square&logo=argo&logoColor=EF7B4D)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0c0a09?style=flat-square&logo=github-actions&logoColor=2088FF)
+![Jenkins](https://img.shields.io/badge/Jenkins-0c0a09?style=flat-square&logo=jenkins&logoColor=D24939)
+![Prometheus](https://img.shields.io/badge/Prometheus-0c0a09?style=flat-square&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/Grafana-0c0a09?style=flat-square&logo=grafana&logoColor=F46800)
+![Linux](https://img.shields.io/badge/Linux-0c0a09?style=flat-square&logo=linux&logoColor=FCC624)
 
 ### Certifications
 
@@ -178,6 +172,8 @@ The same platforms are shipped with containers, GitOps, and infrastructure as co
   <img src="https://img.shields.io/badge/AZ--400_DevOps_Engineer_Expert-0c0a09?style=flat-square&logo=microsoft-azure&logoColor=E8B15A" alt="AZ-400 DevOps Engineer Expert" />
 </a>
 
+[View certificates on LinkedIn](https://www.linkedin.com/in/zaidsalman/details/certifications/)
+
 ---
 
 # GitHub analytics
@@ -186,10 +182,6 @@ The same platforms are shipped with containers, GitOps, and infrastructure as co
 
 <img src="https://github-readme-stats.vercel.app/api?username=Salman167&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0c0a09&title_color=E8B15A&text_color=E7E5E4&icon_color=E8B15A" alt="GitHub stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman167&layout=compact&hide_border=true&langs_count=8&bg_color=0c0a09&title_color=E8B15A&text_color=E7E5E4" alt="Top languages" height="165" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Salman167&hide_border=true&background=0C0A09&stroke=3F3428&ring=E8B15A&fire=E8B15A&currStreakNum=FAF7F2&sideNums=FAF7F2&currStreakLabel=E8B15A&sideLabels=E7E5E4&dates=A8A29E" alt="GitHub contribution streak" />
 
 <br>
 
@@ -212,18 +204,16 @@ Open to       : GenAI platform, Agentic RAG, and DevOps roles
 
 # Fun facts
 
-- 🎤 Give me a song I know and I’ll take the second verse.
-- 💃 The dance floor is where I stop checking my phone.
-- 🍳 Weeknights end in the kitchen. I cook to switch off.
-- 🤝 I collect people, not contacts. New friends, long conversations.
-- 🥾 Boots on, trail ahead. Trekking is my reset button.
-- 💪 Calisthenics before the laptop. The bar does not negotiate.
+- 🎤 I sing once I know the song.
+- 💃 Dancing is how I leave the day behind.
+- 🍳 I cook on weeknights. It is how I switch off.
+- 🤝 I like making new friends and spending real time with them.
+- 🥾 Trekking is where my head gets quiet.
+- 💪 Calisthenics keeps the week steady.
 
 ---
 
 <div align="center">
-
-### [LinkedIn](https://www.linkedin.com/in/zaidsalman) · [Portfolio](https://salman167.github.io) · [Email](mailto:zaid.cloudsre@gmail.com)
 
 **ACRFP · Agentic RAG · DevOps**
 
