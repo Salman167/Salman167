@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="banner.png" alt="Zaid Salman — Generative AI Engineer" width="100%" />
+<img src="banner.png" alt="Zaid Salman — Idea. Implement. Deploy. Rebuild." width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&pause=1100&color=E8B15A&center=true&vCenter=true&width=760&lines=Generative+AI+Engineer;Agentic+RAG+Systems;ACRFP+on+Azure+AKS;Kubernetes+%C2%B7+Terraform+%C2%B7+GitOps" alt="Focus" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&pause=1100&color=E8B15A&center=true&vCenter=true&width=760&lines=Idea.+Implement.+Deploy.+Rebuild.;Agentic+RAG+%C2%B7+ACRFP;LangGraph+agents+behind+a+guardrail;Eval.+Feedback.+Rebuild." alt="Idea. Implement. Deploy. Rebuild." />
 
 <br>
 
