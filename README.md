@@ -7,13 +7,13 @@
 <br>
 
 <a href="https://www.linkedin.com/in/zaidsalman">
-  <img src="https://img.shields.io/badge/LinkedIn-Zaid_Salman-0c0a09?style=for-the-badge&logo=linkedin&logoColor=E8B15A" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Zaid_Salman-0c0a09?style=for-the-badge&logo=linkedin&logoColor=E8B15A&labelColor=0c0a09" alt="LinkedIn" />
 </a>
 <a href="https://salman167.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-salman167.github.io-0c0a09?style=for-the-badge&logo=github&logoColor=E8B15A" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-salman167.github.io-0c0a09?style=for-the-badge&logo=github&logoColor=E8B15A&labelColor=0c0a09" alt="Portfolio" />
 </a>
 <a href="mailto:zaid.cloudsre@gmail.com">
-  <img src="https://img.shields.io/badge/Email-zaid.cloudsre@gmail.com-0c0a09?style=for-the-badge&logo=gmail&logoColor=E8B15A" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-zaid.cloudsre@gmail.com-0c0a09?style=for-the-badge&logo=gmail&logoColor=E8B15A&labelColor=0c0a09" alt="Email" />
 </a>
 
 <br>
