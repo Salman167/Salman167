@@ -168,9 +168,15 @@ The same platforms are shipped with containers, GitOps, and infrastructure as co
 
 ### Certifications
 
-![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-0c0a09?style=flat-square&logo=amazon-aws&logoColor=E8B15A)
-![AZ-104](https://img.shields.io/badge/AZ--104_Azure_Administrator-0c0a09?style=flat-square&logo=microsoft-azure&logoColor=E8B15A)
-![AZ-400](https://img.shields.io/badge/AZ--400_DevOps_Engineer_Expert-0c0a09?style=flat-square&logo=microsoft-azure&logoColor=E8B15A)
+<a href="https://www.linkedin.com/in/zaidsalman/details/certifications/">
+  <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-0c0a09?style=flat-square&logo=amazon-aws&logoColor=E8B15A" alt="AWS Solutions Architect Associate" />
+</a>
+<a href="https://www.linkedin.com/in/zaidsalman/details/certifications/">
+  <img src="https://img.shields.io/badge/AZ--104_Azure_Administrator-0c0a09?style=flat-square&logo=microsoft-azure&logoColor=E8B15A" alt="AZ-104 Azure Administrator" />
+</a>
+<a href="https://www.linkedin.com/in/zaidsalman/details/certifications/">
+  <img src="https://img.shields.io/badge/AZ--400_DevOps_Engineer_Expert-0c0a09?style=flat-square&logo=microsoft-azure&logoColor=E8B15A" alt="AZ-400 DevOps Engineer Expert" />
+</a>
 
 ---
 
@@ -206,11 +212,12 @@ Open to       : GenAI platform, Agentic RAG, and DevOps roles
 
 # Fun facts
 
-- I sing and I dance.
-- I cook.
-- I like making new friends and spending time with them.
-- I go trekking.
-- I train calisthenics.
+- 🎤 Give me a song I know and I’ll take the second verse.
+- 💃 The dance floor is where I stop checking my phone.
+- 🍳 Weeknights end in the kitchen. I cook to switch off.
+- 🤝 I collect people, not contacts. New friends, long conversations.
+- 🥾 Boots on, trail ahead. Trekking is my reset button.
+- 💪 Calisthenics before the laptop. The bar does not negotiate.
 
 ---
 
