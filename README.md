@@ -180,12 +180,16 @@ The same platforms are shipped with containers, GitOps, and infrastructure as co
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Salman167&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0c0a09&title_color=E8B15A&text_color=E7E5E4&icon_color=E8B15A" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman167&layout=compact&hide_border=true&langs_count=8&bg_color=0c0a09&title_color=E8B15A&text_color=E7E5E4" alt="Top languages" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salman167&theme=github_dark" alt="GitHub stats" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salman167&theme=github_dark" alt="Top languages" height="180" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salman167&bg_color=0c0a09&color=e8b15a&line=e8b15a&point=faf7f2&area=true&hide_border=true&title_color=e8b15a&area_color=e8b15a" alt="GitHub contribution graph" width="100%" />
+<img src="https://streak-stats.demolab.com?user=Salman167&hide_border=true&background=0C0A09&stroke=3F3428&ring=E8B15A&fire=E8B15A&currStreakNum=FAF7F2&sideNums=FAF7F2&currStreakLabel=E8B15A&sideLabels=E7E5E4&dates=A8A29E" alt="GitHub contribution streak" />
+
+<br>
+
+<img src="https://ghchart.rshah.org/E8B15A/Salman167" alt="GitHub contribution graph" width="100%" />
 
 </div>
 
