@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="banner.png" alt="Zaid Salman — Idea. Implement. Deploy. Rebuild." width="100%" />
+<img src="banner.png" alt="Zaid Salman — Idea. Design. Implement. Deploy. Rebuild." width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&pause=1100&color=E8B15A&center=true&vCenter=true&width=760&lines=Idea.+Implement.+Deploy.+Rebuild.;Agentic+RAG+%C2%B7+ACRFP;LangGraph+agents+behind+a+guardrail;Eval.+Feedback.+Rebuild." alt="Idea. Implement. Deploy. Rebuild." />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&pause=1100&color=E8B15A&center=true&vCenter=true&width=820&lines=Idea.+Design.+Implement.+Deploy.+Rebuild.;Two+agents+%C2%B7+one+loop;Agentic+RAG+%C2%B7+ACRFP;Eval.+Feedback.+Rebuild." alt="Idea. Design. Implement. Deploy. Rebuild." />
 
 <br>
 
@@ -48,6 +48,16 @@ Status    : Building production GenAI platforms
 ```
 
 </details>
+
+---
+
+# Vision
+
+Agentic systems that run in production and stay inside policy, approval, and observability. Retrieval and cloud actions should be useful because they are bounded, not because they are unsupervised.
+
+# Mission
+
+Take each idea through design, implementation, deploy, and rebuild. I use that loop to ship Agentic RAG and ACRFP on Azure and AWS, with LangGraph agents, FastAPI, and a guardrail before anything changes production.
 
 ---
 
@@ -168,8 +178,16 @@ The same platforms are shipped with containers, GitOps, and infrastructure as co
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Salman167&show_icons=true&hide_border=true&rank_icon=github&bg_color=0c0a09&title_color=E8B15A&text_color=E7E5E4&icon_color=E8B15A" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Salman167&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0c0a09&title_color=E8B15A&text_color=E7E5E4&icon_color=E8B15A" alt="GitHub stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman167&layout=compact&hide_border=true&langs_count=8&bg_color=0c0a09&title_color=E8B15A&text_color=E7E5E4" alt="Top languages" height="165" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Salman167&hide_border=true&background=0C0A09&stroke=3F3428&ring=E8B15A&fire=E8B15A&currStreakNum=FAF7F2&sideNums=FAF7F2&currStreakLabel=E8B15A&sideLabels=E7E5E4&dates=A8A29E" alt="GitHub contribution streak" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salman167&bg_color=0c0a09&color=e8b15a&line=e8b15a&point=faf7f2&area=true&hide_border=true&title_color=e8b15a&area_color=e8b15a" alt="GitHub contribution graph" width="100%" />
 
 </div>
 
@@ -183,6 +201,16 @@ Shipping with : AKS, Helm, Argo CD, Terraform, GitHub Actions
 Ask me about  : LangGraph agents, hybrid retrieval, FinOps agents, GitOps
 Open to       : GenAI platform, Agentic RAG, and DevOps roles
 ```
+
+---
+
+# Fun facts
+
+- I sing and I dance.
+- I cook.
+- I like making new friends and spending time with them.
+- I go trekking.
+- I train calisthenics.
 
 ---
 
