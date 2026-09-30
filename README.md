@@ -2,6 +2,12 @@
 
 <img src="banner.png" alt="Zaid Salman — Idea. Design. Implement. Deploy. Rebuild." width="100%" />
 
+<a href="https://github.com/Salman167/Salman167/blob/main/agents.glb">
+  <img src="agents-preview.png" alt="3D model of Agent 01 and Agent 02. Open the file to rotate it." width="100%" />
+</a>
+
+<sub>3D model · click to orbit Agent 01 and Agent 02</sub>
+
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&pause=1100&color=E8B15A&center=true&vCenter=true&width=720&lines=Agentic+RAG+%C2%B7+ACRFP+%C2%B7+DevOps;Bengaluru+%C2%B7+Open+to+India%2C+UAE%2C+KSA%2C+Europe;LangGraph+%C2%B7+FastAPI+%C2%B7+Kubernetes" alt="Agentic RAG, ACRFP, and DevOps" />
 
 <br>
